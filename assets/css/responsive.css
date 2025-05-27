@@ -1,0 +1,43 @@
+@media only screen and (max-width: 700px) {
+
+
+     header{
+        padding: 20px 0px;
+     }
+.menu{
+    background: none;
+    padding: 10px 0px;
+    border-radius: 0px;
+    
+}
+.navbar-toggler{
+     background-color: #fff !important;
+}
+.navbar-toggler-icon{
+      color: #fff !important;
+}
+.search{
+    margin: 15px 10px;
+    display: none;
+}
+.item_one{
+    background: none;
+    border-radius: 68px;
+    padding: 0;
+
+}
+.hero_section{
+    padding: 0;
+}
+
+.common_section{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    
+}
+.image{
+    margin: 10px 0px;
+}
+
+}

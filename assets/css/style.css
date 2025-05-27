@@ -4,14 +4,26 @@
     box-sizing: border-box;
 }
 
+
+/* common css */
 a{
     padding: 0;
     margin: 0;
     text-decoration: none;
 }
+.view_btn{
+font-family: Urbanist;
+font-weight: 500;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0px;
+text-align: right;
 
-/* common css */
+}
 
+ol, ul{
+    padding: 0px;
+}
 h1{
 font-family: Manrope;
 font-weight: 700;
@@ -29,14 +41,15 @@ font-weight: 700;
 font-size: 38px;
 line-height: 150%;
 letter-spacing: 0%;
+color: #fff;
 
 }
 h3{
 font-family: Roboto;
 font-weight: 500;
 font-size: 25px;
-line-height: 100%;
-letter-spacing: 0%;
+
+
 color: #fff;
 
 }
@@ -47,6 +60,7 @@ font-weight: 700;
 font-size: 24px;
 line-height: 150%;
 letter-spacing: 0%;
+color: #fff;
 
 }
 h5{
@@ -55,6 +69,7 @@ font-weight: 600;
 font-size: 20px;
 line-height: 150%;
 letter-spacing: 0%;
+color: #fff;
 
 }
 h6{
@@ -71,7 +86,7 @@ font-weight: 400;
 font-size: 18px;
 line-height: 150%;
 letter-spacing: 0%;
-
+color: #999999;
 }
 
 section{
@@ -183,3 +198,127 @@ color:rgba(255, 255, 255, 1) ;
     width: 120px;
       margin: 0px 10px;
 }
+
+
+
+/* sports end */
+
+
+/* events css start */
+.event_item img{
+    width: 320px;
+    height: 230px;
+   border-radius: 10px;
+   max-width: 100%;
+
+}
+
+/* event css end */
+
+
+/* subscription css start */
+
+.subscription_package{
+    border: 1px solid #B8EB00;
+    padding: 50px;
+    border-radius: 12px;
+}
+
+.icon i{
+    color: #B8EB00;
+    font-size: 24px;
+}
+.icon_2{
+       font-size: 24px;
+}
+
+.subscription_content h4{
+ font-family: Manrope;
+font-weight: 600;
+font-size: 40px;
+line-height: 73%;
+letter-spacing: 0%;
+
+}
+.subscription_content sub{
+font-family: Manrope;
+font-weight: 500;
+font-size: 18px;
+line-height: 73%;
+letter-spacing: 0%;
+color: #999999;
+
+}
+
+.plan_btn{
+ background: #B8EB00;
+ padding: 15px 30px;
+ border-radius: 78px;
+ color: #000;
+ font-family: Roboto;
+font-weight: 400;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+
+}
+/* subscription css end */
+
+/* footer css start */
+.footer_section{
+    background: #000;
+    padding: 20px 0px;
+}
+
+.footer_item ul li {
+    list-style-type: none;
+    padding: 10px 0px;
+
+} 
+
+.footer_item ul li a{
+font-family: Manrope;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+letter-spacing: 0%;
+color: #999999;
+
+}
+
+.social_icon a{
+    color: #fff;
+    padding: 16px;
+}
+
+.footer_bottom .row{
+    border-top: 1px solid #262626;
+}
+
+.copyright p{
+    font-family: Manrope;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+letter-spacing: 0%;
+color: #999999;
+}
+
+.bottom_menu li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+}
+
+.bottom_menu li a{
+  font-family: Manrope;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+letter-spacing: 0%;
+color: #999999;
+
+}
+
+/* footer css end */
