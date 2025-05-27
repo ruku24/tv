@@ -1,6 +1,15 @@
 @media only screen and (max-width: 700px) {
 
 
+h1{
+    font-size: 25px;
+}
+h2{
+    font-size: 20px;
+}
+.subscription_content h4 {
+    line-height: 100%;
+}
      header{
         padding: 20px 0px;
      }
@@ -38,6 +47,30 @@
 }
 .image{
     margin: 10px 0px;
+}
+.popular_item{
+         margin: 10px 0px; 
+}
+.movies_item{
+     margin: 10px 0px; 
+}
+.soprts_item{
+    margin: 10px 0px; 
+}
+.match_item{
+       margin: 10px 0px; 
+}
+}
+.documentories_item{
+    margin: 10px 0px; 
+}
+
+.event_item{
+    margin: 10px 0px;
+}
+
+.footer_section{
+    padding: 20px 15px;
 }
 
 }

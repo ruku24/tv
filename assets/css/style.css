@@ -11,7 +11,7 @@ a{
     margin: 0;
     text-decoration: none;
 }
-.view_btn{
+.view_btn a{
 font-family: Urbanist;
 font-weight: 500;
 font-size: 14px;
