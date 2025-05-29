@@ -13,6 +13,7 @@ h2{
      header{
         padding: 20px 0px;
      }
+     
 .menu{
     background: none;
     padding: 10px 0px;
@@ -60,7 +61,7 @@ h2{
 .match_item{
        margin: 10px 0px; 
 }
-}
+
 .documentories_item{
     margin: 10px 0px; 
 }
@@ -71,6 +72,9 @@ h2{
 
 .footer_section{
     padding: 20px 15px;
+}
+.subscription_package{
+    margin: 10px 0px;
 }
 
 }
